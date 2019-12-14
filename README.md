@@ -7,6 +7,8 @@ As a team we agreed:
 - Ask for help and support each other
 - Develop joint solutions and follow them
 
+Being a part of the team, each of us swear put these principles above others
+
 # Манифест здоровой среды
 Мы как команда договорились:
 - Доверять друг другу
@@ -15,3 +17,5 @@ As a team we agreed:
 - Обсуждать потребности и создавать комфортные условия для работы каждого 
 - Просить о помощи и оказывать поддержку друг другу
 - Вырабатывать совместные решения и следовать им
+
+Каждый из нас, являясь частью команды, готов руководствоваться этими принципами в первую очередь
